@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.2.0"/>
+	<deviceFamily value="TMS470"/>
+	<connection value="common/targetdb/connections/segger_j-link_connection.xml"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<ignoreDefaultCCSSettings value="true"/>
+	<templateProperties value="id=empty_LP_MSPM0G3507_nortos_ticlang.projectspec.empty_LP_MSPM0G3507_nortos_ticlang,buildProfile=release,isHybrid=true"/>
+	<activeTargetConfiguration value="targetConfigs/MSPM0G3507.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
+	<sourceLookupPath value="${COM_TI_MSPM0_SDK_INSTALL_DIR}/source/ti/driverlib"/>
+	<origin value="C:/Users/29555/Desktop/备战电赛/WHEELTEC C07A核心板(MSPM0G3507)附送资料/2.例程源码/5.WHEELTEC-C07A-TB6612驱动电机例程/CCS/WHEELTEC_C07A_TB6612/tb6612"/>
+	<filesToOpen value="README.md,empty.syscfg"/>
+</projectOptions>
